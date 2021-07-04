@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Processo.Core.RestSharp", "Itau.Processo.Core.RestSharp\Itau.Processo.Core.RestSharp.csproj", "{DD1C45FB-2EA9-445C-8054-0F21C16555F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Processo.Core.Selenium", "Itau.Processo.Core.Selenium\Itau.Processo.Core.Selenium.csproj", "{D2A86106-25B6-41AD-AE0C-A3F61AF11AA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Processo.Core.Utils", "Itau.Processo.Core.Utils\Itau.Processo.Core.Utils.csproj", "{1E353408-6BC7-44F2-9FEC-09C042609200}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Processo.Core.Data", "Itau.Processo.Core.Data\Itau.Processo.Core.Data.csproj", "{8B505496-B03D-4888-8CA6-502CDDEE3F06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Processo.Test.API.PetzStore", "Itau.Processo.Test.API.PetzStore\Itau.Processo.Test.API.PetzStore.csproj", "{49EFEDD4-07B4-4108-ADA0-A8BACC4C3DE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itau.Processo.Test.Web.PetzStore", "Itau.Processo.Test.Web.PetzStore\Itau.Processo.Test.Web.PetzStore.csproj", "{75788396-6D2F-4CEA-BE34-3AAF5BAD75BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1C45FB-2EA9-445C-8054-0F21C16555F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1C45FB-2EA9-445C-8054-0F21C16555F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1C45FB-2EA9-445C-8054-0F21C16555F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1C45FB-2EA9-445C-8054-0F21C16555F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A86106-25B6-41AD-AE0C-A3F61AF11AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A86106-25B6-41AD-AE0C-A3F61AF11AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A86106-25B6-41AD-AE0C-A3F61AF11AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A86106-25B6-41AD-AE0C-A3F61AF11AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E353408-6BC7-44F2-9FEC-09C042609200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E353408-6BC7-44F2-9FEC-09C042609200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E353408-6BC7-44F2-9FEC-09C042609200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E353408-6BC7-44F2-9FEC-09C042609200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B505496-B03D-4888-8CA6-502CDDEE3F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B505496-B03D-4888-8CA6-502CDDEE3F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B505496-B03D-4888-8CA6-502CDDEE3F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B505496-B03D-4888-8CA6-502CDDEE3F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EFEDD4-07B4-4108-ADA0-A8BACC4C3DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EFEDD4-07B4-4108-ADA0-A8BACC4C3DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EFEDD4-07B4-4108-ADA0-A8BACC4C3DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EFEDD4-07B4-4108-ADA0-A8BACC4C3DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75788396-6D2F-4CEA-BE34-3AAF5BAD75BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75788396-6D2F-4CEA-BE34-3AAF5BAD75BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75788396-6D2F-4CEA-BE34-3AAF5BAD75BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75788396-6D2F-4CEA-BE34-3AAF5BAD75BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1EFDD76-2144-4846-9D18-4ADEF77D68F3}
+	EndGlobalSection
+EndGlobal
